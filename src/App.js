@@ -1,13 +1,16 @@
 import React from "react";
 import Profile from "./Profile";
 import Contact from './Contact'
+import {Routes, Route} from 'react-router-dom'
 
 
 function App() {
   return (
     <div>
-      <Profile />
-      <Contact />
+      <Routes>
+        <Route  path="/profile" element={<Profile/>} />
+        <Route  path="/contact" element={<Contact/>} />
+      </Routes>
     </div>
   );
 }
