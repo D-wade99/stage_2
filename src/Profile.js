@@ -28,6 +28,7 @@ const Profile = () => {
                 </div>
               </div>
             </section>
+
             <section id="links">
               <div className="links__wrapper">
                 <div className="link">
@@ -67,7 +68,7 @@ const Profile = () => {
                 </div>
                 <div className="link">
                   <a href="/contact" target="_blank" rel='noreferrer'>
-                    <button className="link__btn" id="contact">Contact</button>
+                    <button className="link__btn" id="contact">Contact Me</button>
                   </a>
                 </div>
               </div>
@@ -83,13 +84,23 @@ const Profile = () => {
           </div>
         </div>
       </main>
+      
       <footer>
         <div className="footer__container">
-          <div className="footer__row">
+          <div className="footer__row border-solid border-1 border-t-gray-200">
             <div className="footer__wrapper">
-            <img src={zuri} alt="" />
-            <p>HNG Internship 9 Frontend Task</p>
-            <img src={ingress} alt="" />
+            <div className="m-4">
+              <img src={zuri} alt="" />
+            </div>
+
+            <div className="m-4">
+              <p>HNG Internship 9 Frontend Task</p>
+            </div>
+
+            <div className="m-4">
+              <img src={ingress} alt="" />
+            </div>
+            
             </div>
           </div>
         </div>
