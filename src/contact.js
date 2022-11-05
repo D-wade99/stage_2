@@ -36,7 +36,7 @@ function Contact() {
           <input type="checkbox" id="check_box"/>
           <label htmlFor="check_box">You agree to provide your date to Sijuade Daniel who may contact you.</label>
           
-          <button className="w-full mt-[32px] bg-blue-700 text-white hover:bg-blue-800 border boder-solid rounded-lg">Send message</button>
+          <button id="btn__submit" className="w-full mt-[32px] bg-blue-700 text-white hover:bg-blue-800 border boder-solid rounded-lg">Send message</button>
         </form>
       </div>
         <footer >
