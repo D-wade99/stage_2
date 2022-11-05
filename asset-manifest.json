@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.a2e6cb0e.css",
-    "main.js": "/profile/static/js/main.b4478593.js",
-    "static/media/my cv pic.jpg": "/profile/static/media/my cv pic.753b48d791681c0b37d8.jpg",
-    "static/media/ingressive.svg": "/profile/static/media/ingressive.601ff0479d970c740e8b7d7ba7821548.svg",
-    "static/media/Zuri.svg": "/profile/static/media/Zuri.07527506a84a392338cdb637cb9887ae.svg",
-    "static/media/slack.svg": "/profile/static/media/slack.28a762f5dae5f256b30dc2c9dd1b2d55.svg",
-    "static/media/github.svg": "/profile/static/media/github.aba7459ca56ea0514fd66bbba4b62232.svg",
-    "index.html": "/profile/index.html",
-    "main.a2e6cb0e.css.map": "/profile/static/css/main.a2e6cb0e.css.map",
-    "main.b4478593.js.map": "/profile/static/js/main.b4478593.js.map"
+    "main.css": "/stage_2/static/css/main.a2e6cb0e.css",
+    "main.js": "/stage_2/static/js/main.b728caa1.js",
+    "static/media/my cv pic.jpg": "/stage_2/static/media/my cv pic.753b48d791681c0b37d8.jpg",
+    "static/media/ingressive.svg": "/stage_2/static/media/ingressive.601ff0479d970c740e8b7d7ba7821548.svg",
+    "static/media/Zuri.svg": "/stage_2/static/media/Zuri.07527506a84a392338cdb637cb9887ae.svg",
+    "static/media/slack.svg": "/stage_2/static/media/slack.28a762f5dae5f256b30dc2c9dd1b2d55.svg",
+    "static/media/github.svg": "/stage_2/static/media/github.aba7459ca56ea0514fd66bbba4b62232.svg",
+    "index.html": "/stage_2/index.html",
+    "main.a2e6cb0e.css.map": "/stage_2/static/css/main.a2e6cb0e.css.map",
+    "main.b728caa1.js.map": "/stage_2/static/js/main.b728caa1.js.map"
   },
   "entrypoints": [
     "static/css/main.a2e6cb0e.css",
-    "static/js/main.b4478593.js"
+    "static/js/main.b728caa1.js"
   ]
 }
